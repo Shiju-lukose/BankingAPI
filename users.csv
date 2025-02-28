@@ -1,0 +1,4 @@
+id,username,email,password_hash,role
+1,admin,admin@example.com,$2b$12$RL4D06gbNOOWs0zSRVvuke7jxvALtelrkbTth1O5GC9BYrpSJebga,admin
+2,shiju_lukose,shiju@example.com,$2b$12$TOijS3Sc7Er0WXSeU4M.xeFZIkAe5fNhEMR27x28hTkKkvuWhB8Gm,user
+3,updated_user,updated@example.com,$2b$12$yTEj.Fn31MXizIINXC2y.OkSKmJNavZFglQpoXAX9V4hHB34VeGjy,user
