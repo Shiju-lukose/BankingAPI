@@ -13,7 +13,7 @@ app = Flask(__name__)
 # ✅ Set Absolute Database Path to Avoid Conflicts
 basedir = os.path.abspath(os.path.dirname(__file__))
 db_path = os.path.join(basedir, "banking.db")
-app.config['SQLALCHEMY_DATABASE_URI'] = "postgresql://postgres:shiju12@localhost:5432/banking_db"
+app.config['SQLALCHEMY_DATABASE_URI'] = "postgresql://banking_db_s1c9_user:aRaV27HIe5JWtzQlEXNAp6eWwzsqUlUv@dpg-cv0qqdtsvqrc738ul0g0-a/banking_db_s1c9"
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 app.config['JWT_SECRET_KEY'] = 'supersecretkey'
 
