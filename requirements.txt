@@ -5,3 +5,4 @@ Flask-JWT-Extended
 psycopg2-binary
 gunicorn
 flask_limiter
+flask_cors
